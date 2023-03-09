@@ -70,6 +70,4 @@ public class Receive extends Thread {
 		}
 	}
 	
-	
-	
 }
